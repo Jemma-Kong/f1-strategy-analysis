@@ -15,7 +15,7 @@ strategies depend on individual driver styles.
 
 - [x] Setup FastF1 environment
 - [x] Basic lap time visualization (Monaco 2024)
-- [ ] Multi-driver comparison and pit strategy analysis
+- [x] Multi-driver comparison and pit strategy analysis
 - [ ] Driver style characterization via clustering
 - [ ] Simplified lap time simulator
 - [ ] Energy management optimization (2024 rules)
