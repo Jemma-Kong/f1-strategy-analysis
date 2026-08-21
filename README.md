@@ -73,25 +73,23 @@ This workflow connects race observation with evidence-based analysis.
 
 ## Repository Structure
 
-Planned repository structure:
+Current repository structure:
 
 ```text
 f1-strategy-analysis/
 |-- README.md
 |-- PROJECTS.md
-|-- ROADMAP.md
 |-- analyses/
 |   |-- race_analyses/
-|   `-- model_projects/
-|-- src/
-|   `-- f1_strategy/
-|-- docs/
-|   |-- blog/
-|   `-- methodology/
-|-- data/
-|-- notebooks/
-`-- tests/
+|   |   `-- 2024_monaco_gp_baseline/
+|   `-- model_projects/          # planned
+|-- src/                         # planned reusable package
+|-- docs/                        # planned write-ups and methodology notes
+|-- notebooks/                   # planned exploration notebooks
+`-- tests/                       # planned tests for reusable code
 ```
+
+See [PROJECTS.md](PROJECTS.md) for the current project index.
 
 ### analyses/
 
